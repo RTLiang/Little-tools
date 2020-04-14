@@ -1,3 +1,4 @@
+#这个文件旨在纪念2020年3月9日至4月10日网课时间
 import time
 import webbrowser
 bio = 'https://ke.qq.com/webcourse/index.html#cid=1402813&term_id=101500404&taid=6516929973282749&lite=1'
