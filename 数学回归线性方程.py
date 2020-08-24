@@ -43,4 +43,4 @@ else :
         del ly[-1]
         n -=1
 s = sse/sst
-print('R^2=',1-s)
+print('R^2=',s)
